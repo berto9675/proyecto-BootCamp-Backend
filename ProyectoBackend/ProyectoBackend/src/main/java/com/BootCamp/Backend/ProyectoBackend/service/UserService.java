@@ -1,10 +1,11 @@
-package com.BootCamp.Backend.service;
+package com.BootCamp.Backend.ProyectoBackend.service;
 
-import com.BootCamp.Backend.model.User;
-import com.BootCamp.Backend.repository.UserRepository;
+import com.BootCamp.Backend.ProyectoBackend.models.User;
+import com.BootCamp.Backend.ProyectoBackend.repositories.UserRepository;
+import com.BootCamp.Backend.ProyectoBackend.service.UserService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import java.util.List;
 
 @Service

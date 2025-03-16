@@ -1,4 +1,4 @@
-package com.BootCamp.Backend.service;
+package com.BootCamp.Backend.ProyectoBackend.service;
 
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.http.HttpStatus;
