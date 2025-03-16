@@ -110,7 +110,7 @@ La primera versión de la plataforma incluye:
 
 /src
 ├── main
-│   ├── java/com/p6r  # Código fuente del backend
+│   ├── java/com/    # Código fuente del backend
 │   ├── resources      # Configuración y archivos estáticos
 └── test              # Tests unitarios y de integración
 /frontend             # Código fuente del frontend
