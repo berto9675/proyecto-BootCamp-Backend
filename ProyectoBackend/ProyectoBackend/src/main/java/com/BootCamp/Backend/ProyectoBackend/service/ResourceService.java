@@ -23,6 +23,7 @@ import com.BootCamp.Backend.ProyectoBackend.repository.ResourceRepository;
 @Service
 public class ResourceService {
     private final ResourceRepository resourceRepository;
+    
 
 
     @Autowired

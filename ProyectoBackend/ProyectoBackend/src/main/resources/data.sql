@@ -2,7 +2,7 @@ INSERT INTO users (id, username, password) VALUES (default, 'admin', '1234');
 
 INSERT INTO resources (INSERT INTO resources (title, file_url, category) VALUES
 
-              ('actividad 10 ', '', 'exercises'),
+              ('actividad 10 ', '', 'exercise'),
               ('video 4', '', 'tutorials'),
               ('Introducción a JavaScript', './uploads/intro.pdf', 'documentation'),
               ('Código sostenible', './uploads/codigosostenible.pdf', 'documentation'),
