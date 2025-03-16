@@ -11,7 +11,7 @@ La Plataforma de Recursos para Bootcamp es una solución web centralizada diseñ
 Mejorar la experiencia de aprendizaje, reducir la curva de aprendizaje y crear una comunidad activa donde el conocimiento fluya de manera estructurada y efectiva.
 
 ## Equipo de Desarrollo
-
+[Berto9675](https://github.com/berto9675)
 
 
 
@@ -115,5 +115,5 @@ La primera versión de la plataforma incluye:
 5.  Abre un pull request.
 
 ### Licencia
-
-Este proyecto es propiedad del equipo ACE-Code-Backend. Todos los derechos reservados. No está permitida la distribución sin previa autorización.
+[Berto9675](https://github.com/berto9675)
+Este proyecto es propiedad de CodeCampDev. Todos los derechos reservados. No está permitida la distribución sin previa autorización.
