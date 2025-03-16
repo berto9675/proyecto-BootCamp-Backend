@@ -41,7 +41,7 @@ Mejorar la experiencia de aprendizaje, reducir la curva de aprendizaje y crear u
 
 * ️ Pruebas unitarias con JUnit para validar funcionalidades clave
 * ️ Pruebas de integración con Hamcrest para garantizar el correcto funcionamiento de la API REST
-* Cobertura unitaria actual: 46%, en expansión constante
+* Cobertura unitaria actual: 50%, en expansión constante
 
 ## MVP (Producto Mínimo Viable)
 
