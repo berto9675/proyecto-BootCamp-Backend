@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.BootCamp.Backend.ProyectoBackend.DTO.UserDTO;
 import com.BootCamp.Backend.ProyectoBackend.models.User;
-import com.BootCamp.Backend.ProyectoBackend.models.UserDTO;
 import com.BootCamp.Backend.ProyectoBackend.services.UserService;
 
 @RestController

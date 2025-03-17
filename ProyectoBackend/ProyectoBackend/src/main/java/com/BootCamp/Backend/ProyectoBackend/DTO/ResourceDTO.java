@@ -1,4 +1,4 @@
-package com.BootCamp.Backend.ProyectoBackend.models;
+package com.BootCamp.Backend.ProyectoBackend.DTO;
 
 public class ResourceDTO {
     private String title;
