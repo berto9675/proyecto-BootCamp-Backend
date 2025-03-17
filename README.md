@@ -14,7 +14,6 @@ Mejorar la experiencia de aprendizaje, reducir la curva de aprendizaje y crear u
 
 👤 Berto9675
 
-
 ## ⚡ Funcionalidades Principales
 
 ## 🎨 Frontend
@@ -153,5 +152,4 @@ cd frontend && npm install && npm start
 
 ## 🔐 Licencia
 
-👤 Berto9675
 Este proyecto es propiedad de [Berto9675](https://github.com/berto9675) deCodeCampDev. Todos los derechos reservados. ❌ No está permitida la distribución sin previa autorización.
